@@ -206,7 +206,7 @@ export const copywriter = {
     desc: 'The Matrix Universe is a pioneering Web3 entertainment platform, in which the power of decentralization meets the innovations of artificial intelligence in an autonomous digital realm. This is an ecosystem where entertainment transcends traditional boundaries; where community is built, found, and fostered; and every interaction is an opportunity to explore, create and grow.',
     link: {
       medium: 'https://medium.com/@matrixworld',
-      twitter: 'https://twitter.com/theMatrixWorld',
+      twitter: 'https://twitter.com/MatrixUniverse_',
       youtube: 'https://www.youtube.com/@matrixworldofficial',
       telegram: 'https://t.me/MatrixWorldM',
       discord: 'https://discord.com/invite/bMQh4ztyhP'
